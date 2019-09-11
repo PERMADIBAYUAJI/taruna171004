@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/permadibayuaji027/a421b75f-dd02-462e-aac1-0ff87d2d75c3/d0d357e6-a545-4c50-bf4b-d65b34dd6838/_apis/work/boardbadge/9ed29e4d-d9ec-4a93-8fac-6d45c00f19a4)](https://dev.azure.com/permadibayuaji027/a421b75f-dd02-462e-aac1-0ff87d2d75c3/_boards/board/t/d0d357e6-a545-4c50-bf4b-d65b34dd6838/Microsoft.RequirementCategory)
 # taruna171004
